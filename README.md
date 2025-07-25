@@ -62,7 +62,7 @@ The detection pipeline consists of the following stages:
 
 ## 📈 Results
 
-- ✅ **Accuracy**: Achieved up to **93% accuracy** on Celeb-DF frame-level validation  
+- ✅ **Accuracy**: Achieved up to **95.2% accuracy** on Celeb-DF frame-level validation  
 - 🧠 High interpretability with visual anomaly maps  
 - 🔍 Strong generalization across both facial and non-facial forgery zones  
 
